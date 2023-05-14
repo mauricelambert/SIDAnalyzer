@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="SIDAnalyzer",
-    version="0.0.1",
+    version="0.0.2",
     py_modules=["SIDAnalyzer"],
     install_requires=[],
     author="Maurice Lambert",
